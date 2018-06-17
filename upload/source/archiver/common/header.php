@@ -10,14 +10,14 @@ ob_start();
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <base href="<?php echo $_G['siteurl']; ?>archiver/" />
-<title><?php if(!empty($navtitle)): echo $navtitle.' - '; endif; if(empty($nobbname)): echo $_G['setting']['bbname'].' - '; endif;?> Powered by Discuz! Archiver</title>
+<title><?php if(!empty($navtitle)): echo $navtitle.' - '; endif; if(empty($nobbname)): echo $_G['setting']['bbname'].' - '; endif;?> Supported by UTSA! Archiver</title>
 <?php echo $_G['setting']['seohead']; ?>
 
 <meta name="keywords" content="<?php if(!empty($metakeywords)): echo dhtmlspecialchars($metakeywords); endif;?>" />
 <meta name="description" content="<?php if(!empty($metadescription)): echo dhtmlspecialchars($metadescription).' ';endif; echo ','.$_G['setting']['bbname'];?>" />
 <meta name="generator" content="Discuz! <?php echo $_G['setting']['version']; ?>" />
 <meta name="author" content="Discuz! Team and Comsenz UI Team" />
-<meta name="copyright" content="2001-2017 Comsenz Inc." />
+<meta name="copyright" content="2018-2028 Freestyle Group." />
 <style type="text/css">
 	body {font-family: Verdana;FONT-SIZE: 12px;MARGIN: 0;color: #000000;background: #ffffff;}
 	img {border:0;}

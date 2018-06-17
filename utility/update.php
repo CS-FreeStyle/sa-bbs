@@ -2073,7 +2073,7 @@ END;
 function show_footer() {
 	print<<<END
 	</div>
-	<div id="footer">&copy; Comsenz Inc. 2001-2017 http://www.comsenz.com</div>
+	<div id="footer">&copy; 2018-2028 Freestyle Group.</div>
 	</div>
 	<br>
 	</body>
