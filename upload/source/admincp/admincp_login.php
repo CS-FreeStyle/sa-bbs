@@ -87,7 +87,7 @@ function html_login_footer($halt = true) {
 <tr>
 	<td colspan="2" class="footer">
 		<div class="copyright">
-			<p>Supported by <a href="https://www.utsa.edu/" target="_blank">UTSA</a> $version </p>
+			<p>Supported by <a href="https://www.utsa.edu/" target="_blank">Freestyle</a> $version </p>
 			<p>&copy; 2018-2028 Freestyle Group.</p>
 		</div>
 	</td>
